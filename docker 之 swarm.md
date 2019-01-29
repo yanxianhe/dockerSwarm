@@ -2,8 +2,8 @@
 
 ##### 快速安装docker
 
+> https://get.docker.com/
 ~~~~~~~~
- > https://get.docker.com/
 
 curl -fsSL https://get.docker.com -o get-docker.sh
 
